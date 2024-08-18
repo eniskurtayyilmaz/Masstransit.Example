@@ -1,8 +1,6 @@
 ### CodeApp.MassTransit Example
 
 ![Diagram](./images/app-diagram.png)
-
-
 ## English
 I tried to explain how to use Masstransit library in my youtube video.
 
@@ -19,3 +17,7 @@ Eğer docker kullanıyorsanız, aşağıdaki komutu çalıştırın.
 docker run -d --hostname rabbitmq --name rabbitmq -p 15672:15672 -p 5672:5672 -e RABBITMQ_DEFAULT_USER=guest -e RABBITMQ_DEFAULT_PASS=guest rabbitmq:3-management
 ```
 
+
+## Diagram
+
+![Diagram](./images/app-diagram.png)
