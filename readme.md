@@ -1,5 +1,6 @@
 ### CodeApp.MassTransit Example
 
+![Diagram](./images/app-diagram.png)
 
 
 ## English
